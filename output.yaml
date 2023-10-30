@@ -1,0 +1,482 @@
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR9
+  - red-kiosk
+  - 2023.10.25.20.32.740e4c0ba-dev
+  - null
+  - '["BEYOND_MSSQL_URL=jdbc:h2:mem:test", "BEYOND_MSSQL_USERNAME=", "BEYOND_MSSQL_PASSWORD=",
+    "BEYOND_MSSQL_DRIVER_CLASS=org.h2.Driver", "BEYOND_STUDYROOM_ENABLED=false", "FEIGN_CLIENT_CONFIG_DEFAULT_LOGGERLEVEL=FULL",
+    "logging.level.estech-protocol=trace", "BEYOND_GOLF_ENABLED=true", "BEYOND_GOLF_VENDOR=beyond",
+    "BEYOND_PRIVATELOCKER_ENABLED=false", "BEYOND_SAUNA_ENABLED=true", "BEYOND_SAUNA_VENDOR=estech",
+    "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-kiosk-D3 -Dprofiler.logback.logging.transactioninfo=true
+    -Dprofiler.logback.logging.pattern.replace.enable=true -Dprofiler.logback.logging.pattern.replace.search=%5p
+    -Dprofiler.logback.logging.pattern.replace.with=''%5p [red-kiosk-D3,%X{PtxId},%X{PspanId}]''
+    -Dprofiler.sampling.type=PERCENT -Dprofiler.sampling.counting.sampling-rate=1
+    -Dprofiler.sampling.percent.sampling-rate=100", "SPRING_PROFILES_ACTIVE=dev",
+    "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t] %-40.40logger{39}
+    : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8.1+1",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:36'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR1
+  - red-aa
+  - 2023.10.25.12.53.0d1ffc764-dev
+  - null
+  - '["TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-aa-D3 -Dprofiler.logback.logging.transactioninfo=true
+    -Dprofiler.logback.logging.pattern.replace.enable=true -Dprofiler.logback.logging.pattern.replace.search=%5p
+    -Dprofiler.logback.logging.pattern.replace.with=''%5p [red-aa-D3,%X{PtxId},%X{PspanId}]''
+    -Dprofiler.sampling.type=PERCENT -Dprofiler.sampling.counting.sampling-rate=1
+    -Dprofiler.sampling.percent.sampling-rate=100", "SPRING_PROFILES_ACTIVE=dev",
+    "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t] %-40.40logger{39}
+    : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8.1+1",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:36'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR8
+  - red-history
+  - 2023.10.19.12.55.8bc260b97-dev
+  - null
+  - '["CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t]
+    %-40.40logger{39} : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-history-D3 -Dprofiler.logback.logging.transactioninfo=true
+    -Dprofiler.logback.logging.pattern.replace.enable=true -Dprofiler.logback.logging.pattern.replace.search=%5p
+    -Dprofiler.logback.logging.pattern.replace.with=''%5p [red-history-D3,%X{PtxId},%X{PspanId}]''
+    -Dprofiler.sampling.type=PERCENT -Dprofiler.sampling.counting.sampling-rate=1
+    -Dprofiler.sampling.percent.sampling-rate=100", "SPRING_PROFILES_ACTIVE=dev",
+    "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8.1+1",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:36'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR2
+  - red-access
+  - 2023.08.25.65ce003a-dev
+  - null
+  - '["X_API_KEY=8/vHu5D5b3iEZKLZXROO6z0OjoPkJ7GChqeOQt8mJUo=", "DEVICE_ACCESS_TYPE=HT_ACCESS",
+    "DEVICE_FIRE_TYPE=HT_ACCESS", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3",
+    "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-access-D3 -Dprofiler.logback.logging.transactioninfo=true
+    -Dprofiler.logback.logging.pattern.replace.enable=true -Dprofiler.logback.logging.pattern.replace.search=%5p
+    -Dprofiler.logback.logging.pattern.replace.with=''%5p [red-access-D3,%X{PtxId},%X{PspanId}]''
+    -Dprofiler.sampling.type=PERCENT -Dprofiler.sampling.counting.sampling-rate=1
+    -Dprofiler.sampling.percent.sampling-rate=100", "SPRING_PROFILES_ACTIVE=dev",
+    "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:36'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR5
+  - red-apigateway
+  - 2023.08.14-dev
+  - null
+  - '["TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off -Dprofiler.sampling.counting.sampling-rate=1 -Dprofiler.sampling.percent.sampling-rate=100  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-apigateway-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-apigateway-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk8u382-b05",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:36'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBD1
+  - devops-stage-checker
+  - 2023.10.03
+  - null
+  - '["PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANG=C.UTF-8", "GPG_KEY=E3FF2839C048B25C084DEBE9B26995E310250568", "PYTHON_VERSION=3.9.18",
+    "PYTHON_PIP_VERSION=23.0.1", "PYTHON_SETUPTOOLS_VERSION=58.1.0", "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/9af82b715db434abb94a0a6f3569f43e72157346/public/get-pip.py",
+    "PYTHON_GET_PIP_SHA256=45a2bb8bf2bb5eff16fdd00faef6f29731831c7c59bd9fc2bf1f3bed511ff1fe"]'
+  - '2023-10-26 04:16:36'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR7
+  - red-emulator
+  - 2023.08.29.c57e3df2-dev
+  - null
+  - '["TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-emulator-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-emulator-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:37'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR12
+  - red-spoon
+  - 2023.08.28.a1236ab6-dev
+  - null
+  - '["TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-spoon-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-spoon-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:37'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR4
+  - red-agent-edgecore
+  - 2023.08.28.d0d617ba-dev
+  - null
+  - '["SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3",
+    "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-agent-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-agent-D3,%X{PtxId},%X{PspanId}]''", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:37'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR6
+  - red-camel
+  - 2023.08.28.d0d617ba-dev
+  - null
+  - '["JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off ", "SPRING_PROFILES_ACTIVE=dev",
+    "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t] %-40.40logger{39}
+    : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:37'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR11
+  - red-scheduler
+  - 2023.08.28.a94ff20e-dev
+  - null
+  - '["BEYOND_PRIVATELOCKER_ENABLED=false", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-scheduler-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-scheduler-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:37'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR10
+  - red-parking-permit
+  - 2023.08.28.a94ff20e-dev
+  - null
+  - '["SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-parking-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-parking-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "TZ=Asia/Seoul", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:16:37'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR3
+  - red-activemq
+  - 2023.06.26
+  - null
+  - '["JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off ", "SPRING_PROFILES_ACTIVE=dev",
+    "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t] %-40.40logger{39}
+    : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "DISPLAY=192.168.10.18:0.0",
+    "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_VERSION=jdk-11.0.8+10",
+    "JAVA_HOME=/opt/java/openjdk"]'
+  - '2023-10-26 04:16:37'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - kiosk
+  - HTBI1
+  - iot-multi-kiosk
+  - iot-multi-kiosk.2.2.2
+  - 172.22.200.200
+  - null
+  - '2023-10-26 04:16:46'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR9
+  - red-kiosk
+  - 2023.10.25.20.32.740e4c0ba-dev
+  - null
+  - '["BEYOND_MSSQL_URL=jdbc:h2:mem:test", "BEYOND_MSSQL_USERNAME=", "BEYOND_MSSQL_PASSWORD=",
+    "BEYOND_MSSQL_DRIVER_CLASS=org.h2.Driver", "BEYOND_STUDYROOM_ENABLED=false", "FEIGN_CLIENT_CONFIG_DEFAULT_LOGGERLEVEL=FULL",
+    "logging.level.estech-protocol=trace", "BEYOND_GOLF_ENABLED=true", "BEYOND_GOLF_VENDOR=beyond",
+    "BEYOND_PRIVATELOCKER_ENABLED=false", "BEYOND_SAUNA_ENABLED=true", "BEYOND_SAUNA_VENDOR=estech",
+    "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-kiosk-D3 -Dprofiler.logback.logging.transactioninfo=true
+    -Dprofiler.logback.logging.pattern.replace.enable=true -Dprofiler.logback.logging.pattern.replace.search=%5p
+    -Dprofiler.logback.logging.pattern.replace.with=''%5p [red-kiosk-D3,%X{PtxId},%X{PspanId}]''
+    -Dprofiler.sampling.type=PERCENT -Dprofiler.sampling.counting.sampling-rate=1
+    -Dprofiler.sampling.percent.sampling-rate=100", "SPRING_PROFILES_ACTIVE=dev",
+    "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t] %-40.40logger{39}
+    : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8.1+1",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR1
+  - red-aa
+  - 2023.10.25.12.53.0d1ffc764-dev
+  - null
+  - '["TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-aa-D3 -Dprofiler.logback.logging.transactioninfo=true
+    -Dprofiler.logback.logging.pattern.replace.enable=true -Dprofiler.logback.logging.pattern.replace.search=%5p
+    -Dprofiler.logback.logging.pattern.replace.with=''%5p [red-aa-D3,%X{PtxId},%X{PspanId}]''
+    -Dprofiler.sampling.type=PERCENT -Dprofiler.sampling.counting.sampling-rate=1
+    -Dprofiler.sampling.percent.sampling-rate=100", "SPRING_PROFILES_ACTIVE=dev",
+    "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t] %-40.40logger{39}
+    : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8.1+1",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR8
+  - red-history
+  - 2023.10.19.12.55.8bc260b97-dev
+  - null
+  - '["CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t]
+    %-40.40logger{39} : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-history-D3 -Dprofiler.logback.logging.transactioninfo=true
+    -Dprofiler.logback.logging.pattern.replace.enable=true -Dprofiler.logback.logging.pattern.replace.search=%5p
+    -Dprofiler.logback.logging.pattern.replace.with=''%5p [red-history-D3,%X{PtxId},%X{PspanId}]''
+    -Dprofiler.sampling.type=PERCENT -Dprofiler.sampling.counting.sampling-rate=1
+    -Dprofiler.sampling.percent.sampling-rate=100", "SPRING_PROFILES_ACTIVE=dev",
+    "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8.1+1",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR2
+  - red-access
+  - 2023.08.25.65ce003a-dev
+  - null
+  - '["X_API_KEY=8/vHu5D5b3iEZKLZXROO6z0OjoPkJ7GChqeOQt8mJUo=", "DEVICE_ACCESS_TYPE=HT_ACCESS",
+    "DEVICE_FIRE_TYPE=HT_ACCESS", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3",
+    "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-access-D3 -Dprofiler.logback.logging.transactioninfo=true
+    -Dprofiler.logback.logging.pattern.replace.enable=true -Dprofiler.logback.logging.pattern.replace.search=%5p
+    -Dprofiler.logback.logging.pattern.replace.with=''%5p [red-access-D3,%X{PtxId},%X{PspanId}]''
+    -Dprofiler.sampling.type=PERCENT -Dprofiler.sampling.counting.sampling-rate=1
+    -Dprofiler.sampling.percent.sampling-rate=100", "SPRING_PROFILES_ACTIVE=dev",
+    "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR5
+  - red-apigateway
+  - 2023.08.14-dev
+  - null
+  - '["TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off -Dprofiler.sampling.counting.sampling-rate=1 -Dprofiler.sampling.percent.sampling-rate=100  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-apigateway-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-apigateway-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk8u382-b05",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBD1
+  - devops-stage-checker
+  - 2023.10.03
+  - null
+  - '["PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANG=C.UTF-8", "GPG_KEY=E3FF2839C048B25C084DEBE9B26995E310250568", "PYTHON_VERSION=3.9.18",
+    "PYTHON_PIP_VERSION=23.0.1", "PYTHON_SETUPTOOLS_VERSION=58.1.0", "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/9af82b715db434abb94a0a6f3569f43e72157346/public/get-pip.py",
+    "PYTHON_GET_PIP_SHA256=45a2bb8bf2bb5eff16fdd00faef6f29731831c7c59bd9fc2bf1f3bed511ff1fe"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR7
+  - red-emulator
+  - 2023.08.29.c57e3df2-dev
+  - null
+  - '["TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-emulator-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-emulator-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR12
+  - red-spoon
+  - 2023.08.28.a1236ab6-dev
+  - null
+  - '["TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-spoon-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-spoon-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR4
+  - red-agent-edgecore
+  - 2023.08.28.d0d617ba-dev
+  - null
+  - '["SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3",
+    "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-agent-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-agent-D3,%X{PtxId},%X{PspanId}]''", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR6
+  - red-camel
+  - 2023.08.28.d0d617ba-dev
+  - null
+  - '["JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off ", "SPRING_PROFILES_ACTIVE=dev",
+    "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t] %-40.40logger{39}
+    : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR11
+  - red-scheduler
+  - 2023.08.28.a94ff20e-dev
+  - null
+  - '["BEYOND_PRIVATELOCKER_ENABLED=false", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
+    -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-scheduler-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-scheduler-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR10
+  - red-parking-permit
+  - 2023.08.28.a94ff20e-dev
+  - null
+  - '["SITE_ID=EDGEDEV3", "JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off  -javaagent:/workspace/pinpoint-agent/pinpoint-bootstrap.jar
+    -Dprofiler.transport.grpc.collector.ip=pinpoint.htbeyond.net -Dprofiler.collector.ip=pinpoint.htbeyond.net
+    -Dpinpoint.applicationName=red-parking-D3 -Dprofiler.logback.logging.pattern.replace.with=''%5p
+    [red-parking-D3,%X{PtxId},%X{PspanId}]''", "SPRING_PROFILES_ACTIVE=dev", "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX}
+    %5p   --- [%15.15t] %-40.40logger{39} : %m%n%wEx", "TZ=Asia/Seoul", "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
+    "LANG=en_US.UTF-8"]'
+  - '2023-10-26 04:17:53'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - red
+  - HTBR3
+  - red-activemq
+  - 2023.06.26
+  - null
+  - '["JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8 -Dspring.main.banner-mode=off ", "SPRING_PROFILES_ACTIVE=dev",
+    "CONSOLE_LOG_PATTERN=%d{yyyy-MM-dd''T''HH:mm:ss.SSSXXX} %5p   --- [%15.15t] %-40.40logger{39}
+    : %m%n%wEx", "TZ=Asia/Seoul", "SITE_ID=EDGEDEV3", "DISPLAY=192.168.10.18:0.0",
+    "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_VERSION=jdk-11.0.8+10",
+    "JAVA_HOME=/opt/java/openjdk"]'
+  - '2023-10-26 04:17:54'
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - kiosk
+  - HTBI1
+  - iot-multi-kiosk
+  - iot-multi-kiosk.2.2.2
+  - 172.18.0.1
+  - null
+  - '2023-10-26 04:18:06'
+  - null

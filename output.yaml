@@ -22,6 +22,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:36'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -43,6 +44,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:36'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -63,6 +65,7 @@
     "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8.1+1",
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:36'
+  - null
   - null
 - !!python/tuple
   - EDGEDEV3
@@ -86,6 +89,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:36'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -103,6 +107,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:36'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -115,6 +120,7 @@
     "PYTHON_PIP_VERSION=23.0.1", "PYTHON_SETUPTOOLS_VERSION=58.1.0", "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/9af82b715db434abb94a0a6f3569f43e72157346/public/get-pip.py",
     "PYTHON_GET_PIP_SHA256=45a2bb8bf2bb5eff16fdd00faef6f29731831c7c59bd9fc2bf1f3bed511ff1fe"]'
   - '2023-10-26 04:16:36'
+  - null
   - null
 - !!python/tuple
   - EDGEDEV3
@@ -133,6 +139,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:37'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -149,6 +156,7 @@
     "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:37'
+  - null
   - null
 - !!python/tuple
   - EDGEDEV3
@@ -167,6 +175,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:37'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -180,6 +189,7 @@
     "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:37'
+  - null
   - null
 - !!python/tuple
   - EDGEDEV3
@@ -198,6 +208,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:37'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -214,6 +225,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:16:37'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -229,6 +241,7 @@
     "JAVA_HOME=/opt/java/openjdk"]'
   - '2023-10-26 04:16:37'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - kiosk
@@ -238,6 +251,7 @@
   - 172.22.200.200
   - null
   - '2023-10-26 04:16:46'
+  - null
   - null
 - !!python/tuple
   - EDGEDEV3
@@ -263,6 +277,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -284,6 +299,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -304,6 +320,7 @@
     "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8.1+1",
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
+  - null
   - null
 - !!python/tuple
   - EDGEDEV3
@@ -327,6 +344,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -344,6 +362,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -356,6 +375,7 @@
     "PYTHON_PIP_VERSION=23.0.1", "PYTHON_SETUPTOOLS_VERSION=58.1.0", "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/9af82b715db434abb94a0a6f3569f43e72157346/public/get-pip.py",
     "PYTHON_GET_PIP_SHA256=45a2bb8bf2bb5eff16fdd00faef6f29731831c7c59bd9fc2bf1f3bed511ff1fe"]'
   - '2023-10-26 04:17:53'
+  - null
   - null
 - !!python/tuple
   - EDGEDEV3
@@ -374,6 +394,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -390,6 +411,7 @@
     "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
+  - null
   - null
 - !!python/tuple
   - EDGEDEV3
@@ -408,6 +430,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -421,6 +444,7 @@
     "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_HOME=/opt/java/openjdk", "JAVA_VERSION=jdk-17.0.8+7",
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
+  - null
   - null
 - !!python/tuple
   - EDGEDEV3
@@ -439,6 +463,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -455,6 +480,7 @@
     "LANG=en_US.UTF-8"]'
   - '2023-10-26 04:17:53'
   - null
+  - null
 - !!python/tuple
   - EDGEDEV3
   - red
@@ -469,4 +495,16 @@
     "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "JAVA_VERSION=jdk-11.0.8+10",
     "JAVA_HOME=/opt/java/openjdk"]'
   - '2023-10-26 04:17:54'
+  - null
+  - null
+- !!python/tuple
+  - EDGEDEV3
+  - kiosk
+  - HTBI1
+  - iot-multi-kiosk
+  - iot-multi-kiosk.2.2.2
+  - 172.18.0.1
+  - null
+  - '2023-10-26 04:18:06'
+  - null
   - null
